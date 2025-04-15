@@ -10,6 +10,7 @@ a simple web form application that mimics the basic functionality of Google Form
 - Clean and responsive UI
 
 ## 🖼️ Demo
+![Screenshot from 2025-04-15 16-47-46](https://github.com/user-attachments/assets/4e66f681-e2be-4287-94ce-8b44d9a26e86)
 
 
 ## 📦 Getting Started
